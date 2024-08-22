@@ -1,7 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=I%20am%20Juwon)
-<br/> 
 <br/>
 ####  :clipboard: Technologies I've Worked With
 
