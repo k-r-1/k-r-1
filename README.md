@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=I%20am%20Juwon)
 <br/> 
 <br/>
-####  :clipboard: Technologies I've Used
+####  :clipboard: Technologies I've Worked With
 
 ##### 🛠️ Languages
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -33,18 +33,3 @@
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 
   
-
-<!--
-**k-r-1/k-r-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
