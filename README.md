@@ -4,7 +4,7 @@
 
 <strong>📮 Email:</strong> <em>juwon00715@gmail.com</em>
 
-<br/> 
+---
 
 ####  :clipboard: Technologies I've Worked With
 
