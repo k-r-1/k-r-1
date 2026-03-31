@@ -12,10 +12,9 @@
     <b>🎓 Software Convergence, Seoul Women's University</b><br>
     <i>Back-end Developer</i>
   </p>
-  <p>
-    <a href="mailto:juwon.park.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-juwon.park.dev@gmail.com-7fa1e8?style=flat-square&logo=gmail&logoColor=white"/></a>
-    <a href="https://k-r-1.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=tistory&logoColor=white"/></a>
-  </p>
+<p>
+  <a href="mailto:juwon.park.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-juwon.park.dev@gmail.com-7fa1e8?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;<a href="https://k-r-1.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=tistory&logoColor=white"/></a>
+</p>
 </div>
 
 
