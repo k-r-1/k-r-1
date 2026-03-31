@@ -64,13 +64,5 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-780-7fa1e8?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Public_Repos-11-e8a1d5?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Joined_GitHub-4_Years_Ago-7fa1e8?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&color=0:7fa1e8,100:e8a1d5&fontColor=ffffff" alt="footer wave" />
 </div>
