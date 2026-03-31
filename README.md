@@ -60,11 +60,11 @@
 
 | Category | Tech Stack | Experience Detail |
 | :--- | :--- | :--- |
-| **Back-end** | **Spring Boot / DRF** | REST API 설계 및 DB 연동, Serializer를 통한 데이터 무결성 관리 |
-| **Cloud** | **GCP / AWS** | Cloud Run, GCE, EC2-RDS 환경 구축 및 배포 경험 |
-| **DevOps** | **Docker** | Dockerfile 및 Compose를 활용한 모델 서버/DB 컨테이너화 |
-| **Database** | **MySQL / MariaDB** | 요구사항 기반 스키마 설계 및 쿼리 성능 최적화 |
-| **Front-end** | **React / HTML / CSS** | UI/UX 설계 및 기본적인 사용자 인터랙션 구현 |
+| **🖥️ Back-end** | **Spring Boot / DRF** | REST API 설계 및 DB 연동, Serializer를 통한 데이터 무결성 관리 |
+| **☁️ Cloud** | **GCP / AWS** | Cloud Run, GCE, EC2-RDS 환경 구축 및 배포 경험 |
+| **🐳 DevOps** | **Docker** | Dockerfile 및 Compose를 활용한 모델 서버/DB 컨테이너화 |
+| **💾 Database** | **MySQL / MariaDB** | 요구사항 기반 스키마 설계 및 쿼리 성능 최적화 |
+| **🎨 Front-end** | **React / HTML / CSS** | UI/UX 설계 및 기본적인 사용자 인터랙션 구현 |
 ---
 
 
