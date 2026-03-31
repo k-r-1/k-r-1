@@ -63,8 +63,6 @@
 ---
 
 
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&color=0:7fa1e8,100:e8a1d5&fontColor=ffffff" alt="footer wave" />
 </div>
