@@ -63,13 +63,6 @@
 ---
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-r-1&show_icons=true&theme=transparent&title_color=7fa1e8&text_color=7fa1e8&icon_color=e8a1d5&hide_border=true" alt="GitHub Stats" />
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=k-r-1&layout=compact&theme=transparent&title_color=7fa1e8&text_color=7fa1e8&icon_color=e8a1d5&hide_border=true" alt="Top Languages" />
-</div>
 
 
 <div align="center">
