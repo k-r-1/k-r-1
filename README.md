@@ -6,26 +6,21 @@
 
 
 <p align="center">
-
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7fa1e8&center=true&width=435&lines=Hello%2C+World!;Code.+Learn.+Grow.;Turning+coffee+into+code..." alt="Typing SVG" />
-
 </p>
 
 
 <div align="center">
-  <h2>박주원 Juwon Park</h2>
+  <h1><b>박 주 원</b> <sup><i>Juwon Park</i></sup></h1>
   <p>
     <b>🎓 Software Convergence, Seoul Women's University</b><br>
     <i>Back-end Developer</i>
   </p>
   <p>
-    <a href="mailto:juwon.park.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-juwon.park.dev@gmail.com-7fa1e8?style=flat&logo=gmail&logoColor=white"/>
-    </a>
-    <br>
+    <a href="mailto:juwon.park.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-juwon.park.dev@gmail.com-7fa1e8?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href="https://k-r-1.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=tistory&logoColor=white"/></a>
   </p>
 </div>
-
 
 
 ---
@@ -67,20 +62,6 @@
 | **🎨 Front-end** | **React / HTML / CSS** | UI/UX 설계 및 기본적인 사용자 인터랙션 구현 |
 ---
 
-
-
-## 🔗 Connect with me
-<p align="center">
-  <a href="https://github.com/k-r-1"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://k-r-1.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat&logo=tistory&logoColor=white" alt="Blog" /></a>
-</p>
-
-
----
-
-
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://img.shields.io/badge/Total_Contributions-780-7fa1e8?style=for-the-badge&logo=github&logoColor=white" />
