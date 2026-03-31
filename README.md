@@ -70,21 +70,10 @@
 
 
 ## 🔗 Connect with me
-
-
-
 <p align="center">
-
-  <a href="https://github.com/k-r-1">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="https://k-r-1.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-orange?style=flat&logo=tistory&logoColor=white" alt="Blog" />
-  </a>
-
+  <a href="https://github.com/k-r-1"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://k-r-1.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat&logo=tistory&logoColor=white" alt="Blog" /></a>
 </p>
-
 
 
 ---
@@ -97,7 +86,6 @@
   <img src="https://img.shields.io/badge/Total_Contributions-780-7fa1e8?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Public_Repos-11-e8a1d5?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Joined_GitHub-4_Years_Ago-7fa1e8?style=for-the-badge&logo=github&logoColor=white" />
-  
 </div>
 
 
