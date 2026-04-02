@@ -57,6 +57,13 @@
 | **💾 Database** | **MySQL / MariaDB** | 요구사항 기반 스키마 설계 및 쿼리 성능 최적화 |
 | **🎨 Front-end** | **React / HTML / CSS** | UI/UX 설계 및 기본적인 사용자 인터랙션 구현 |
 ---
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=k-r-1&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,a18cd1,fbc2eb,a1c4fd&title_color=ffffff&text_color=ffffff&icon_color=cba6f7"/>
+</p>
 
 
 <div align="center">
