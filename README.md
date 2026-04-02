@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🌱 Have Experience
@@ -57,6 +57,16 @@
 | **💾 Database** | **MySQL / MariaDB** | 요구사항 기반 스키마 설계 및 쿼리 성능 최적화 |
 | **🎨 Front-end** | **React / HTML / CSS** | UI/UX 설계 및 기본적인 사용자 인터랙션 구현 |
 ---
+<br>
+
+
+## 📂 Main Projects
+
+<a href="https://github.com/k-r-1/gradproject-pawprints">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=k-r-1&repo=gradproject-pawprints&bg_color=ffffff00&title_color=7fa1e8&text_color=808080&icon_color=7fa1e8&border_color=e4e2e2" alt="Graduation Project: Pawprints" />
+</a>
+<br>
+
 <br>
 
 ## 📊 GitHub Stats
