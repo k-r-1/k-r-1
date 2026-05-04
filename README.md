@@ -59,16 +59,6 @@
 ---
 <br>
 
-
-## 📂 Main Projects
-
-<a href="https://github.com/k-r-1/gradproject-pawprints">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=k-r-1&repo=gradproject-pawprints&bg_color=ffffff00&title_color=7fa1e8&text_color=808080&icon_color=7fa1e8&border_color=e4e2e2" alt="Graduation Project: Pawprints" />
-</a>
-<br>
-
-<br>
-
 ## 📊 GitHub Stats
 
 <p align="center">
