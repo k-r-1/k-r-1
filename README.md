@@ -160,7 +160,7 @@
       <h3>📦 BoxOffice</h3>
       <p><b>B2B logistics MSA platform</b> · 🗓️ 2026</p>
       <p><b>My Role</b>: Company / Product Domain</p>
-      <p>업체·상품 API, Feign 기반 외부 검증, 트랜잭션 범위 분리, QueryDSL 조회 API를 구현했습니다.</p>
+      <p>업체·상품 도메인 API와 QueryDSL 조회를 구현하고, 주문 서비스 연동을 위한 재고 확인·차감·복원 내부 API를 구성했습니다.</p>
       <p>
         <a href="https://github.com/k-r-1/b2b-logistics-platform">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -179,7 +179,7 @@
       <h3>🍽️ WhoStoleMyfood</h3>
       <p><b>Delivery order management platform</b> · 🗓️ 2026</p>
       <p><b>My Role</b>: Order / Address Domain</p>
-      <p>주문 관리 API, 주소 도메인, 통합 테스트와 아키텍처 설계에 참여했습니다.</p>
+      <p>주문·배송지 도메인을 맡아 주문 상태 전이, 가격 스냅샷, 실시간 권한 재검증을 구현하고 팀 통합 테스트를 작성했습니다.</p>
       <p>
         <a href="https://github.com/k-r-1/delivery-platform">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
