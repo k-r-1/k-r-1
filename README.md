@@ -75,7 +75,7 @@
 | **🔒 Consistency** | **Atomic UPDATE · Pessimistic Lock** | unread lost update, 읽음 위치 후퇴, lastMessage 순서 역전 방어 |
 | **🗄️ Database** | **PostgreSQL · MongoDB · Redis · MySQL** | 데이터 성격에 따라 메타데이터, 메시지 원본, 실시간 상태 저장소 분리 |
 | **📈 Perf** | **JMeter · K6** | 방 목록 N+1과 메시지 전송 병목을 측정하고 p95/처리량 기준으로 개선 |
-| **🧠 AI Integration** | **TensorFlow · OpenCV · Cosine Similarity** | 이미지 특징 추출, YOLOv4 객체 탐지, 코사인 유사도 계산을 Flask API 흐름에 연동 |
+| **🧠 AI** | **TensorFlow · OpenCV · Cosine Similarity** | 이미지 특징 추출, YOLOv4 객체 탐지, 코사인 유사도 계산을 Flask API 흐름에 연동 |
 | **🚀 Infra** | **Docker · AWS · GCP** | Docker Compose 로컬 인프라 실행, AWS 배포 환경 확인, GCS 이미지 저장 연동 |
 | **🎨 Frontend** | **React · React Native · HTML · CSS** | 웹·앱 프로젝트에서 화면 구조와 기본 UI 흐름을 이해하고 수정 |
 | **🤖 AI & Docs** | **Codex · Claude · Gemini · CLI** | AI 기반 리뷰를 코드·로그·측정값으로 교차검증하고, 의사결정·성능·트러블슈팅 기록을 주제별 문서로 구조화 |
