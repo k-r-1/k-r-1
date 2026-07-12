@@ -137,7 +137,7 @@
   <tr>
     <td width="50%">
       <h3>🌿 Ditto</h3>
-      <p><b>AI matching SNS platform</b></p>
+      <p><b>AI matching SNS platform</b> · 🗓️ 2026</p>
       <p><b>My Role</b>: Chat Service</p>
       <p>Chat Service를 담당하며 1:1/그룹방 생명주기, 메시지 멱등성, 읽음·lastMessage 동시성 방어, 방 목록 N+1 개선과 STOMP 성능 튜닝을 구현했습니다.</p>
       <p>
@@ -158,7 +158,7 @@
     </td>
     <td width="50%">
       <h3>📦 BoxOffice</h3>
-      <p><b>B2B logistics MSA platform</b></p>
+      <p><b>B2B logistics MSA platform</b> · 🗓️ 2026</p>
       <p><b>My Role</b>: Company / Product Domain</p>
       <p>업체·상품 API, Feign 기반 외부 검증, 트랜잭션 범위 분리, QueryDSL 조회 API를 구현했습니다.</p>
       <p>
@@ -177,7 +177,7 @@
   <tr>
     <td width="50%">
       <h3>🍽️ WhoStoleMyfood</h3>
-      <p><b>Delivery order management platform</b></p>
+      <p><b>Delivery order management platform</b> · 🗓️ 2026</p>
       <p><b>My Role</b>: Order / Address Domain</p>
       <p>주문 관리 API, 주소 도메인, 통합 테스트와 아키텍처 설계에 참여했습니다.</p>
       <p>
@@ -193,7 +193,7 @@
     </td>
     <td width="50%">
       <h3>🎯 FLOTI <sub><i>(In Progress)</i></sub></h3>
-      <p><b>Motivation app for goal achievement</b></p>
+      <p><b>Motivation app for goal achievement</b> · 🗓️ 2026 ~</p>
       <p><b>Experience</b>: Spring Boot backend / React Native app</p>
       <p>성향 분석·AI 조언·성찰 기록·커뮤니티를 결합한 목표 달성 앱을 기획하고, 현재 Spring Boot와 React Native 기반 커뮤니티 영역을 구현 중입니다.</p>
       <p>
@@ -212,7 +212,7 @@
   <tr>
     <td width="50%">
       <h3>🐾 Pawprints</h3>
-      <p><b>Missing pet search system</b></p>
+      <p><b>Missing pet search system</b> · 🗓️ 2024</p>
       <p><b>Experience</b>: Android app / Spring Boot / AI model integration</p>
       <p>실종 반려동물 사진을 등록하면 GCS에 이미지를 저장하고, Flask·TensorFlow 유사도 모델과 연동해 유사 목격 정보를 찾는 흐름을 구현했습니다.</p>
       <p>
@@ -232,7 +232,7 @@
     </td>
     <td width="50%">
       <h3>💼 KeepWork</h3>
-      <p><b>Career matching mobile platform</b></p>
+      <p><b>Career matching mobile platform</b> · 🗓️ 2023</p>
       <p><b>My Role</b>: Android UI / WorkNet API / Django REST</p>
       <p>경력단절 여성 일자리 정보를 모아 제공하는 앱에서 주요 화면, 워크넷 API 연동, 채용공고 CRUD와 서버 연동을 구현했습니다.</p>
       <p>
