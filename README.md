@@ -66,19 +66,68 @@
 
 ### 📌 Detailed Skill Experiences
 
-| Category | Tech Stack | Experience Detail |
-| :--- | :--- | :--- |
-| **🧱 Backend** | **Spring Boot · JPA** | 채팅방, 주문, 업체·상품 도메인 API 구현 및 트랜잭션 경계 조정 |
-| **🔎 Query** | **QueryDSL · JPA Query** | 업체·상품 조회 API 구현, 조회 성능 개선 과정에서 쿼리 비용 점검 |
-| **☁️ MSA** | **OpenFeign · Resilience4j** | user-service·hub-service 검증 연동, 비즈니스 거절과 장애 응답 분리 |
-| **💬 Realtime** | **WebSocket · STOMP · Redis** | 채팅방, 읽음 상태, presence, Redis dedup, STOMP executor 튜닝 |
-| **🔒 Consistency** | **Atomic UPDATE · Pessimistic Lock** | unread lost update, 읽음 위치 후퇴, lastMessage 순서 역전 방어 |
-| **🗄️ Database** | **PostgreSQL · MongoDB · Redis · MySQL** | 데이터 성격에 따라 메타데이터, 메시지 원본, 실시간 상태 저장소 분리 |
-| **📈 Perf** | **JMeter · K6** | 방 목록 N+1과 메시지 전송 병목을 측정하고 p95/처리량 기준으로 개선 |
-| **🧠 AI** | **TensorFlow · OpenCV · Cosine Similarity** | 이미지 특징 추출, YOLOv4 객체 탐지, 코사인 유사도 계산을 Flask API 흐름에 연동 |
-| **🚀 Infra** | **Docker · AWS · GCP** | Docker Compose 로컬 인프라 실행, AWS 배포 환경 확인, GCS 이미지 저장 연동 |
-| **🎨 Frontend** | **React · React Native · HTML · CSS** | 웹·앱 프로젝트에서 화면 구조와 기본 UI 흐름을 이해하고 수정 |
-| **🤖 AI & Docs** | **Codex · Claude · Gemini · CLI** | AI 기반 리뷰를 코드·로그·측정값으로 교차검증하고, 의사결정·성능·트러블슈팅 기록을 주제별 문서로 구조화 |
+<table>
+  <tr>
+    <th width="18%">Category</th>
+    <th width="28%">Tech Stack</th>
+    <th width="54%">Experience Detail</th>
+  </tr>
+  <tr>
+    <td><b>🧱 Backend</b></td>
+    <td><b>Spring Boot · JPA</b></td>
+    <td>채팅방, 주문, 업체·상품 도메인 API 구현 및 트랜잭션 경계 조정</td>
+  </tr>
+  <tr>
+    <td><b>🔎 Query</b></td>
+    <td><b>QueryDSL · JPA Query</b></td>
+    <td>업체·상품 조회 API 구현, 조회 성능 개선 과정에서 쿼리 비용 점검</td>
+  </tr>
+  <tr>
+    <td><b>☁️ MSA</b></td>
+    <td><b>OpenFeign · Resilience4j</b></td>
+    <td>user-service·hub-service 검증 연동, 비즈니스 거절과 장애 응답 분리</td>
+  </tr>
+  <tr>
+    <td><b>💬 Realtime</b></td>
+    <td><b>WebSocket · STOMP · Redis</b></td>
+    <td>채팅방, 읽음 상태, presence, Redis dedup, STOMP executor 튜닝</td>
+  </tr>
+  <tr>
+    <td><b>🔒 Consistency</b></td>
+    <td><b>Atomic UPDATE · Pessimistic Lock</b></td>
+    <td>unread lost update, 읽음 위치 후퇴, lastMessage 순서 역전 방어</td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Database</b></td>
+    <td><b>PostgreSQL · MongoDB · Redis · MySQL</b></td>
+    <td>데이터 성격에 따라 메타데이터, 메시지 원본, 실시간 상태 저장소 분리</td>
+  </tr>
+  <tr>
+    <td><b>📈 Perf</b></td>
+    <td><b>JMeter · K6</b></td>
+    <td>방 목록 N+1과 메시지 전송 병목을 측정하고 p95/처리량 기준으로 개선</td>
+  </tr>
+  <tr>
+    <td><b>🧠 AI</b></td>
+    <td><b>TensorFlow · OpenCV · Cosine Similarity</b></td>
+    <td>이미지 특징 추출, YOLOv4 객체 탐지, 코사인 유사도 계산을 Flask API 흐름에 연동</td>
+  </tr>
+  <tr>
+    <td><b>🚀 Infra</b></td>
+    <td><b>Docker · AWS · GCP</b></td>
+    <td>Docker Compose 로컬 인프라 실행, AWS 배포 환경 확인, GCS 이미지 저장 연동</td>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td><b>React · React Native · HTML · CSS</b></td>
+    <td>웹·앱 프로젝트에서 화면 구조와 기본 UI 흐름을 이해하고 수정</td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI & Docs</b></td>
+    <td><b>Codex · Claude · Gemini · CLI</b></td>
+    <td>AI 기반 리뷰를 코드·로그·측정값으로 교차검증하고, 의사결정·성능·트러블슈팅 기록을 주제별 문서로 구조화</td>
+  </tr>
+</table>
 
 ---
 
