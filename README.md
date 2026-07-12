@@ -75,52 +75,52 @@
   <tr>
     <td><b>🧱 Backend</b></td>
     <td><b>Spring Boot · JPA</b></td>
-    <td>채팅방, 주문, 업체·상품 도메인 API 구현 및 트랜잭션 경계 조정</td>
+    <td>도메인 중심 REST API 구현, 영속성 계층 설계, 트랜잭션 경계 조정</td>
   </tr>
   <tr>
     <td><b>🔎 Query</b></td>
     <td><b>QueryDSL · JPA Query</b></td>
-    <td>업체·상품 조회 API 구현, 조회 성능 개선 과정에서 쿼리 비용 점검</td>
+    <td>동적 조회 조건 처리, 조회 쿼리 작성, 성능 개선 과정의 쿼리 비용 점검</td>
   </tr>
   <tr>
     <td><b>☁️ MSA</b></td>
     <td><b>OpenFeign · Resilience4j</b></td>
-    <td>user-service·hub-service 검증 연동, 비즈니스 거절과 장애 응답 분리</td>
+    <td>서비스 간 검증 API 연동, 외부 호출 실패와 비즈니스 거절 응답 분리</td>
   </tr>
   <tr>
     <td><b>💬 Realtime</b></td>
     <td><b>WebSocket · STOMP · Redis</b></td>
-    <td>채팅방, 읽음 상태, presence, Redis dedup, STOMP executor 튜닝</td>
+    <td>WebSocket/STOMP 기반 실시간 흐름과 Redis 기반 상태·중복 처리 경험</td>
   </tr>
   <tr>
     <td><b>🔒 Consistency</b></td>
     <td><b>Atomic UPDATE · Pessimistic Lock</b></td>
-    <td>unread lost update, 읽음 위치 후퇴, lastMessage 순서 역전 방어</td>
+    <td>동시 수정 충돌을 atomic update, lock, unique constraint로 방어한 경험</td>
   </tr>
   <tr>
     <td><b>🗄️ Database</b></td>
     <td><b>PostgreSQL · MongoDB · Redis · MySQL</b></td>
-    <td>데이터 성격에 따라 메타데이터, 메시지 원본, 실시간 상태 저장소 분리</td>
+    <td>관계형 데이터, 문서형 데이터, 캐시/상태 데이터를 목적에 맞게 분리</td>
   </tr>
   <tr>
     <td><b>📈 Perf</b></td>
     <td><b>JMeter · K6</b></td>
-    <td>방 목록 N+1과 메시지 전송 병목을 측정하고 p95/처리량 기준으로 개선</td>
+    <td>부하 테스트 조건을 검증하고 p95, 처리량, 병목 구간 기준으로 개선</td>
   </tr>
   <tr>
-    <td><b>🧠 AI</b></td>
+    <td><b>🧠 Vision AI</b></td>
     <td><b>TensorFlow · OpenCV · Cosine Similarity</b></td>
     <td>이미지 특징 추출, YOLOv4 객체 탐지, 코사인 유사도 계산을 Flask API 흐름에 연동</td>
   </tr>
   <tr>
     <td><b>🚀 Infra</b></td>
     <td><b>Docker · AWS · GCP</b></td>
-    <td>Docker Compose 로컬 인프라 실행, AWS 배포 환경 확인, GCS 이미지 저장 연동</td>
+    <td>컨테이너 기반 로컬 환경 구성, 클라우드 배포 환경 확인, GCS 연동</td>
   </tr>
   <tr>
     <td><b>🎨 Frontend</b></td>
     <td><b>React · React Native · HTML · CSS</b></td>
-    <td>웹·앱 프로젝트에서 화면 구조와 기본 UI 흐름을 이해하고 수정</td>
+    <td>웹·앱 프로젝트에서 화면 구조를 이해하고 기본 UI 흐름 구현·수정</td>
   </tr>
   <tr>
     <td><b>🤖 AI & Docs</b></td>
