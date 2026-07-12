@@ -195,7 +195,7 @@
       <h3>🎯 FLOTI <sub><i>(In Progress)</i></sub></h3>
       <p><b>Motivation app for goal achievement</b></p>
       <p><b>Experience</b>: Spring Boot backend / React Native app</p>
-      <p>성향 분석·AI 조언·성찰 기록·커뮤니티를 결합한 목표 달성 앱을 기획하고, 현재 Spring Boot와 React Native 기반 커뮤니티 기능을 구현 중입니다.</p>
+      <p>성향 분석·AI 조언·성찰 기록·커뮤니티를 결합한 목표 달성 앱을 기획하고, 현재 Spring Boot와 React Native 기반 커뮤니티 영역을 구현 중입니다.</p>
       <p>
         <a href="https://github.com/FLOTI-ProjectTeam/FLOTI-Repository">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
