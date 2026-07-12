@@ -26,7 +26,7 @@
 > _Backend-focused stack · 주로 사용하는 백엔드 기술_
 
 <p>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -34,9 +34,9 @@
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### 🌱 Used / Experienced
+### 🌱 Used in Projects
 
-> _Also worked with · 프로젝트에서 다뤄본 기술_
+> _Project experience · 프로젝트에서 활용한 기술_
 
 <p>
   <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge"/>
@@ -90,17 +90,17 @@
   <tr>
     <td><b>💬 Realtime</b></td>
     <td><b>WebSocket · STOMP · Redis</b></td>
-    <td>WebSocket/STOMP 기반 실시간 흐름과 Redis 기반 상태·중복 처리 경험</td>
+    <td>WebSocket/STOMP 기반 실시간 통신과 Redis 기반 상태·중복 처리 구현</td>
   </tr>
   <tr>
     <td><b>🔒 Consistency</b></td>
     <td><b>Atomic UPDATE · Pessimistic Lock</b></td>
-    <td>동시 수정 충돌을 atomic update, lock, unique constraint로 방어한 경험</td>
+    <td>동시 수정 충돌을 atomic update, lock, unique constraint로 방어</td>
   </tr>
   <tr>
     <td><b>🗄️ Database</b></td>
-    <td><b>PostgreSQL · MongoDB · Redis · MySQL</b></td>
-    <td>관계형 데이터, 문서형 데이터, 캐시/상태 데이터를 목적에 맞게 분리</td>
+    <td><b>PostgreSQL · MySQL · MongoDB · Redis</b></td>
+    <td>관계형 데이터, 문서형 데이터, 캐시·상태 데이터를 목적에 맞게 분리</td>
   </tr>
   <tr>
     <td><b>📈 Perf</b></td>
@@ -108,7 +108,7 @@
     <td>부하 테스트 조건을 검증하고 p95, 처리량, 병목 구간 기준으로 개선</td>
   </tr>
   <tr>
-    <td><b>🧠 Vision AI</b></td>
+    <td><b>🧠 Vision</b></td>
     <td><b>TensorFlow · OpenCV · Cosine Similarity</b></td>
     <td>이미지 특징 추출, YOLOv4 객체 탐지, 코사인 유사도 계산을 Flask API 흐름에 연동</td>
   </tr>
@@ -131,7 +131,7 @@
 
 ## ✨ Projects
 
-> _Selected projects I worked on · 주요 프로젝트_
+> _Selected Projects · 주요 프로젝트_
 
 <table>
   <tr>
@@ -146,7 +146,7 @@
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
         <img src="https://img.shields.io/badge/STOMP-010101?style=flat-square"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -167,7 +167,7 @@
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -186,7 +186,7 @@
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
@@ -195,15 +195,15 @@
       <h3>🎯 FLOTI <sub><i>(In Progress)</i></sub></h3>
       <p><b>Motivation app for goal achievement</b></p>
       <p><b>Experience</b>: Spring Boot backend / React Native app</p>
-      <p>성향 분석·AI 조언·성찰 기록·커뮤니티를 결합한 목표 달성 앱을 기획하고, 현재는 Spring Boot와 React Native 기반 커뮤니티 기능을 구현 중입니다.</p>
+      <p>성향 분석·AI 조언·성찰 기록·커뮤니티를 결합한 목표 달성 앱을 기획하고, 현재 Spring Boot와 React Native 기반 커뮤니티 기능을 구현 중입니다.</p>
       <p>
         <a href="https://github.com/FLOTI-ProjectTeam/FLOTI-Repository">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       </p>
@@ -223,8 +223,8 @@
       <p>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
