@@ -141,7 +141,7 @@
       <p><b>My Role</b>: Chat Service</p>
       <p>Chat Service를 담당하며 1:1/그룹방 생명주기, 메시지 멱등성, 읽음·lastMessage 동시성 방어, 방 목록 N+1 개선과 STOMP 성능 튜닝을 구현했습니다.</p>
       <p>
-        <a href="#">
+        <a href="https://github.com/k-r-1/b2b-logistics-platform">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
       </p>
