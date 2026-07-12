@@ -160,7 +160,7 @@
       <h3>📦 BoxOffice</h3>
       <p><b>B2B logistics MSA platform</b> · 🗓️ 2026</p>
       <p><b>My Role</b>: Company / Product Domain</p>
-      <p>업체·상품 도메인 API와 QueryDSL 조회를 구현하고, 주문 서비스 연동을 위한 재고 확인·차감·복원 내부 API를 구성했습니다.</p>
+      <p>업체·상품 도메인 API와 QueryDSL 조회를 구현했으며, 주문 서비스 연동을 위한 재고 확인·차감·복원 내부 API도 담당했습니다.</p>
       <p>
         <a href="https://github.com/k-r-1/b2b-logistics-platform">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
