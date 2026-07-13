@@ -39,29 +39,42 @@
 > _Project experience · 프로젝트에서 활용한 기술_
 
 <p>
+  <!-- Backend · Security · MSA -->
   <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Resilience4j-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/STOMP-010101?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <!-- Test · Perf · Infra -->
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
   <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <!-- AI · ML -->
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <!-- Mobile · Frontend -->
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ### 📌 Detailed Skill Experiences
@@ -88,14 +101,19 @@
     <td>서비스 간 검증 API 연동, 외부 호출 실패와 비즈니스 거절 응답 분리</td>
   </tr>
   <tr>
+    <td><b>🔐 Security</b></td>
+    <td><b>Spring Security · JWT</b></td>
+    <td>JWT 기반 인증·인가, 토큰 발급 이후 DB 권한 실시간 재검증, 계층별 다중 방어(Defense in Depth)</td>
+  </tr>
+  <tr>
     <td><b>💬 Realtime</b></td>
     <td><b>WebSocket · STOMP · Redis</b></td>
     <td>WebSocket/STOMP 기반 실시간 통신과 Redis 기반 상태·중복 처리 구현</td>
   </tr>
   <tr>
     <td><b>🔒 Consistency</b></td>
-    <td><b>Atomic UPDATE · Pessimistic Lock</b></td>
-    <td>동시 수정 충돌을 atomic update, lock, unique constraint로 방어</td>
+    <td><b>Redis Lua · Atomic UPDATE · Pessimistic Lock</b></td>
+    <td>재고 동시 차감을 Redis Lua 원자 스크립트로 처리하고, 동시 수정 충돌을 atomic update·lock·unique constraint로 방어</td>
   </tr>
   <tr>
     <td><b>🗄️ Database</b></td>
@@ -105,7 +123,7 @@
   <tr>
     <td><b>📈 Perf</b></td>
     <td><b>JMeter · K6</b></td>
-    <td>부하 테스트 조건을 검증하고 p95, 처리량, 병목 구간 기준으로 개선</td>
+    <td>부하 테스트로 p95·처리량·병목 구간을 측정·분석하고 개선점을 도출</td>
   </tr>
   <tr>
     <td><b>🧠 Vision</b></td>
@@ -115,7 +133,7 @@
   <tr>
     <td><b>🚀 Infra</b></td>
     <td><b>Docker · AWS · GCP</b></td>
-    <td>컨테이너 기반 로컬 환경 구성, 클라우드 배포 환경 확인, GCS 연동</td>
+    <td>컨테이너 기반 로컬 환경 구성, 팀 프로젝트 클라우드 배포 환경(AWS·GCP) 경험, GCS 연동</td>
   </tr>
   <tr>
     <td><b>🎨 Frontend</b></td>
@@ -147,6 +165,7 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
         <img src="https://img.shields.io/badge/STOMP-010101?style=flat-square"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -154,13 +173,14 @@
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
         <img src="https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
       <h3>📦 BoxOffice</h3>
       <p><b>B2B logistics MSA platform</b> · 🗓️ 2026</p>
       <p><b>My Role</b>: Company / Product Domain</p>
-      <p>업체·상품 도메인 API와 QueryDSL 조회를 구현하고, 주문 서비스와 연동되는 재고 확인·차감·복원 내부 API를 담당했습니다.</p>
+      <p>업체·상품 도메인 API와 QueryDSL 동적 조회, 주문 서비스와 연동되는 재고 확인·차감·복원 내부 API를 구현했습니다. 이후 재고 차감을 비관적 락에서 Redis Lua 원자 처리로 리팩토링하고 k6로 측정했습니다.</p>
       <p>
         <a href="https://github.com/k-r-1/b2b-logistics-platform">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -168,9 +188,17 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Resilience4j-6DB33F?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -187,8 +215,14 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
@@ -224,10 +258,12 @@
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
@@ -245,6 +281,7 @@
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
       </p>
     </td>
   </tr>
