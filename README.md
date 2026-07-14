@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td><b>🔎 Query</b></td>
-    <td><b>QueryDSL · JPA Query</b></td>
+    <td><b>QueryDSL · JPQL</b></td>
     <td>동적 조회 조건 처리, 조회 쿼리 작성, 성능 개선 과정의 쿼리 비용 점검</td>
   </tr>
   <tr>
