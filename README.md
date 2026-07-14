@@ -154,9 +154,9 @@
       <h3>🌿 Ditto</h3>
       <p><b>AI matching SNS platform</b> · 🗓️ 2026</p>
       <p><b>My Role</b>: Chat Service</p>
-      <p>Chat Service를 담당하며 1:1/그룹방 생명주기, 메시지 멱등성, 읽음·lastMessage 동시성 방어, 방 목록 N+1 개선과 STOMP 성능 튜닝을 구현했습니다.</p>
+      <p>Chat Service를 담당해 1:1·그룹방 생명주기, 메시지 멱등성, 읽음·lastMessage 동시성 방어를 구현했습니다. 방 목록 N+1을 PostgreSQL 조회 모델로 전환해 평균 응답시간을 2,641ms에서 384ms로 낮추고, STOMP 전송 지연을 구간별로 측정해 실행 스레드풀 병목과 단일 인스턴스의 포화 지점을 확인했습니다.</p>
       <p>
-        <a href="#">
+        <a href="https://github.com/Sparta-Final-Ditto/Ditto">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -177,7 +177,7 @@
       <h3>📦 BoxOffice</h3>
       <p><b>B2B logistics MSA platform</b> · 🗓️ 2026</p>
       <p><b>My Role</b>: Company / Product Domain</p>
-      <p>업체·상품 도메인 API와 QueryDSL 동적 조회, 주문 서비스와 연동되는 재고 확인·차감·복원 내부 API를 구현했습니다. 이후 재고 차감을 비관적 락에서 Redis Lua 원자 처리로 리팩토링하고 k6로 측정했습니다.</p>
+      <p>업체·상품 API 18개와 QueryDSL 동적 조회, 주문 서비스와 연동되는 재고 확인·차감·복원 내부 API를 구현했습니다. 재고 차감을 Redis Lua 원자 처리로 리팩터링하고, k6 동시 차감 테스트와 DB·Redis 재고 비교로 정합성을 검증했습니다.</p>
       <p>
         <a href="https://github.com/k-r-1/b2b-logistics-platform">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -204,7 +204,7 @@
       <h3>🍽️ WhoStoleMyfood</h3>
       <p><b>Delivery order management platform</b> · 🗓️ 2026</p>
       <p><b>My Role</b>: Order / Address Domain</p>
-      <p>주문·배송지 도메인을 맡아 주문 상태 전이, 가격 스냅샷, 실시간 권한 재검증을 구현하고 팀 통합 테스트를 작성했습니다.</p>
+      <p>주문·배송지 API 11개와 상태 전이·가격 스냅샷을 구현했습니다. JWT 발급 후 권한 변경을 DB에서 재검증해 403 차단을 확인하고, 회원가입부터 결제·리뷰까지 이어지는 실제 API 통합 테스트를 작성했습니다.</p>
       <p>
         <a href="https://github.com/k-r-1/delivery-platform">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -246,7 +246,7 @@
       <h3>🐾 Pawprints</h3>
       <p><b>Missing pet search system</b> · 🗓️ 2024</p>
       <p><b>Experience</b>: Android app / Spring Boot / AI model integration</p>
-      <p>실종 반려동물 사진을 등록하면 GCS에 이미지를 저장하고, Flask·TensorFlow 유사도 모델과 연동해 유사 목격 정보를 찾는 흐름을 구현했습니다.</p>
+      <p>Android·Spring Boot·GCS·Flask·TensorFlow로 이미지 업로드부터 모델 추론·유사도 계산까지 이어지는 흐름을 구현하고, 내부 테스트 매칭 정확도를 50%에서 80% 이상으로 높였습니다.</p>
       <p>
         <a href="https://github.com/k-r-1/gradproject-pawprints">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
