@@ -94,6 +94,9 @@
 
 ### 📌 Detailed Skill Experiences
 
+<details>
+<summary><b>카테고리별 상세 경험 펼쳐 보기</b> · Click to expand</summary>
+
 <table>
   <tr>
     <th width="18%">Category</th>
@@ -171,6 +174,8 @@
     <td>AI 기반 리뷰를 코드·로그·측정값으로 교차검증하고, 의사결정·성능·트러블슈팅 기록을 주제별 문서로 구조화 / AI 결과를 공식 문서와 대조, 사내 AI 기반 QA 도구 개발·적용</td>
   </tr>
 </table>
+
+</details>
 
 ## 💼 Experience
 
@@ -511,11 +516,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"><sub>회사 프로젝트는 비공개 저장소에 있어 아래 통계에 포함되지 않습니다.<br>Company work is in private repositories and is not counted below.</sub></p>
+<p align="center"><sub>통계·언어 카드는 공개 저장소 기준이고, 기여 합계에는 회사 비공개 저장소의 기여 횟수가 포함됩니다.<br>Stats and language cards count public repositories only. Total contributions include private company work.</sub></p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=k-r-1&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7fa1e8,e8a1d5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&card_width=450" width="450" height="195" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=k-r-1&hide_border=true&background=30,7fa1e8,e8a1d5&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&card_width=450" width="450" height="195" alt="GitHub Streak"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=k-r-1&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=30,7fa1e8,e8a1d5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&card_width=450" width="450" height="195" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=k-r-1&hide_current_streak=true&hide_border=true&background=30,7fa1e8,e8a1d5&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&card_width=450" width="450" height="195" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=k-r-1&layout=compact&langs_count=6&hide_border=true&bg_color=30,e8a1d5,7fa1e8&title_color=ffffff&text_color=ffffff&card_width=450" width="450" alt="Top Languages"/>
