@@ -518,7 +518,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"><sub>통계·언어 카드는 공개 저장소 기준이고, 기여 합계에는 회사 비공개 저장소의 기여 횟수가 포함됩니다.<br>Stats and language cards count public repositories only. Total contributions include private company work.</sub></p>
+<p align="center"><sub>통계·언어 카드는 공개 저장소 기준이고, 기여 합계에는 비공개 저장소의 기여 횟수가 포함됩니다.<br>Stats and language cards count public repositories only. Total contributions include private company work.</sub></p>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=k-r-1&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars,contribs&show=prs_merged_percentage,reviews&hide_border=true&bg_color=30,7fa1e8,e8a1d5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&card_width=450" width="450" height="195" alt="GitHub Stats"/>
