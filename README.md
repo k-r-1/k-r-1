@@ -29,17 +29,15 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
@@ -58,8 +56,6 @@
   <img src="https://img.shields.io/badge/STOMP-010101?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ElastiCache_Valkey-C925D1?style=for-the-badge"/>
   <!-- Test · Perf · Infra -->
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
@@ -67,6 +63,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ElastiCache_Valkey-C925D1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge"/>
   <!-- AI · ML -->
