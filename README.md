@@ -184,7 +184,7 @@
     <td colspan="2">
       <h3>🏢 OpenIoT <sub><i>(오픈아이오티)</i></sub> · Developer Intern</h3>
       <p><b>IoT device · app · cloud integration company</b> · 🗓️ 2026.08 ~ 2026.11</p>
-      <p>IoT 기기·앱·클라우드를 통합 개발하는 회사에서 <b>AWS 서버리스와 Terraform</b>으로 고객사 서비스와 사내 공통 모듈을 개발했습니다. 수정 이력·Jira·QA 리스트를 모아 AI가 검사하고 사람이 확인한 결과를 보고서로 묶는 <b>사내 AI QA 도구</b>도 개발해 트레이닝 앱 QA에 적용했습니다.</p>
+      <p>IoT 기기·앱·클라우드를 통합 개발하는 회사에서 <b>AWS 서버리스와 Terraform</b>으로 고객사의 실내 자전거 트레이닝 앱과, 여러 서비스가 함께 쓰는 <b>푸시 알림·본인인증 공통 모듈</b>을 개발했습니다. 트레이너 연결 문제를 현장에서 가려내는 <b>BLE 진단 도구(BLE Field Kit)</b>를 만들었고, 수정 이력·Jira·QA 리스트를 모아 AI가 검사하고 사람이 확인한 결과를 보고서로 묶는 <b>사내 AI QA 도구</b>도 개발해 트레이닝 앱 QA에 적용했습니다.</p>
     </td>
   </tr>
   <tr>
@@ -337,7 +337,7 @@
     </td>
     <td width="50%">
       <h3>🔧 BLE Field Kit</h3>
-      <p><b>Indoor bike BLE diagnostic tool</b> · 🗓️ 2026</p>
+      <p><b>Indoor bike BLE diagnostic tool</b> · 🗓️ 2026.09</p>
       <p><b>Experience</b>: Android app · BLE FTMS</p>
       <p>실내 자전거가 앱과 연결되지 않거나 저항이 안 바뀔 때, 검색 → 연결 → 기능 신고 → 데이터 수신 → 제어 중 어디서 막히는지 현장에서 가려내는 Android 진단 도구입니다. 기기가 "성공"이라고 응답해도 실제로 제어되는지는 따로 판정하고, 표준과 다른 패킷은 바이트 단위로 비교해 보여 줍니다.</p>
       <p>
@@ -519,7 +519,7 @@
 <p align="center"><sub>통계·언어 카드는 공개 저장소 기준이고, 기여 합계에는 회사 비공개 저장소의 기여 횟수가 포함됩니다.<br>Stats and language cards count public repositories only. Total contributions include private company work.</sub></p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=k-r-1&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=30,7fa1e8,e8a1d5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&card_width=450" width="450" height="195" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=k-r-1&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars,contribs&show=prs_merged_percentage,reviews&hide_border=true&bg_color=30,7fa1e8,e8a1d5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&card_width=450" width="450" height="195" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=k-r-1&hide_current_streak=true&hide_border=true&background=30,7fa1e8,e8a1d5&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&card_width=450" width="450" height="195" alt="GitHub Streak"/>
 </p>
 <p align="center">
