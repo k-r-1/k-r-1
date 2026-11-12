@@ -190,7 +190,7 @@
   <tr>
     <td colspan="2" valign="top">
       <h3>🚴 Indoor Bike Training App</h3>
-      <p><b>Client project · Server · Web · BLE</b> · 🗓️ 2026.08 ~ </p>
+      <p><b>Client project · Server · Web · BLE</b> · 🗓️ 2026.08 ~ 2026.11 </p>
       <p>실내 자전거 트레이너와 블루투스로 연결해 코스 주행 · 그룹 라이드 · 이벤트를 즐기는 피트니스 앱입니다. 1차 버전의 QA와 버그 수정을 맡은 뒤, 2단계 신규 기능을 서버 API부터 화면까지 개발했습니다.</p>
       <p><b>🛰️ 그룹 라이드</b></p>
       <ul>
