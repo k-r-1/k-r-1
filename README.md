@@ -183,7 +183,7 @@
   <tr>
     <td colspan="2">
       <h3>🏢 OpenIoT <sub><i>(오픈아이오티)</i></sub> · Developer Intern</h3>
-      <p><b>IoT device · app · cloud integration company</b> · 🗓️ 2026.08 ~ 2026.11</p>
+      <p><b>IoT device · app · cloud integration company</b> · 🗓️ 2026.08 ~ </p>
       <p>IoT 기기·앱·클라우드를 통합 개발하는 회사에서 <b>AWS 서버리스와 Terraform</b>으로 고객사의 실내 자전거 트레이닝 앱과, 여러 서비스가 함께 쓰는 <b>푸시 알림·본인인증 공통 모듈</b>을 개발했습니다. 트레이너 연결 문제를 현장에서 가려내는 <b>BLE 진단 도구(BLE Field Kit)</b>를 만들었고, 수정 이력·Jira·QA 리스트를 모아 AI가 검사하고 사람이 확인한 결과를 보고서로 묶는 <b>사내 AI QA 도구</b>도 개발해 트레이닝 앱 QA에 적용했습니다.</p>
     </td>
   </tr>
